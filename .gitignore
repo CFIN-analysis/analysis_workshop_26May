@@ -1,0 +1,27 @@
+# Standard Python ignore below
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+glhmm/__pycache__/*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data from OSF
+Notebooks/example_data
+Notebooks/data_prediction
