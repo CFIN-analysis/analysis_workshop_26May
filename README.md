@@ -9,19 +9,19 @@ The hands-on session consists of one or more Jupyter notebooks provided before-h
 
 ## Program of the day
 
-10.30 - Welcome and Introduction - *Diego Vidaurre*
+- 10.30 - Welcome and Introduction - *Diego Vidaurre*
 
-11.00 - **Module 1:** The Hidden Markov Model - *Laura Masaracchia*
+- 11.00 - **Module 1:** The Hidden Markov Model - *Laura Masaracchia*
 
-12.00 - Lunch break
+- 12.00 - Lunch break
 
-12.30 - **Module 2**: Out-of-sample prediction of non-imaging traits - *Christine Ahrends*
+- 12.30 - **Module 2**: Out-of-sample prediction of non-imaging traits - *Christine Ahrends*
 
-13.30 - **Module 3**: Statistical inference on brain dynamics - *Nick Larsen*
+- 13.30 - **Module 3**: Statistical inference on brain dynamics - *Nick Larsen*
 
-14.30 - Coffee break
+- 14.30 - Coffee break
 
-15.00 - **Module 4**: Normative modelling of functional connectivity - *Janus Rønn Lind Kobbersmed*
+- 15.00 - **Module 4**: Normative modelling of functional connectivity - *Janus Rønn Lind Kobbersmed*
 
 
 
