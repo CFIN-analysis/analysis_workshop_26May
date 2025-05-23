@@ -1,10 +1,13 @@
 # CFIN ANALYSIS WORKSHOP - May 26th 2025
 
 In this Github repo you find all the Slides and Jupyter Notebooks that will be used for our Analysis Workshop. 
+
 The notebooks are named in sequential order, according to program of the workshop. 
 
-The Workshop takes place at CFIN South, Aarhus, on Monday 26th May 2025. 
+The Workshop takes place at CFIN South (Thalamus room), on Monday 26th May 2025. 
+
 The workshop takes the form of focused modules with conceptual introduction first and hands-on session (self-paced) right after. 
+
 The hands-on session consists of one or more Jupyter notebooks provided before-hand, that the participants can explore at their own pace, or use as a basis for their own analysis.
 
 ## Program of the day
