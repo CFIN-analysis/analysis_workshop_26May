@@ -29,7 +29,7 @@ The hands-on session consists of one or more Jupyter notebooks provided before-h
 
 
 Here follows some useful terms that will be used across slides and notebooks during the day: 
-### Glossary
+### Glossary - HMM
 - State time courses: **Gamma**
 - Behavioural Phenotypes: **beh** 
 - Confounds : **conf**
@@ -50,4 +50,13 @@ Here follows some useful terms that will be used across slides and notebooks dur
 - Switching rate: **SR**
 - Sampling frequency: **Fs**
 
-
+### Glossary - FUNCOIN/normative modelling
+FUNCOIN
+- Components which FUNCOIN identifies: **gamma**, **gamma_j** (for the jth component)
+- Model coefficient  found by fitting/decomposing: **beta**
+- Feature matrix/matrix of covariates: **X**
+- List with each element being time series data from one subject: **Y**
+- Number of brain regions: **p**
+- Number of covariates (including intercept): **q**
+- Number of subjects: **n_subj**
+- Funcional connectivity: **FC**
