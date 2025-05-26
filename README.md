@@ -51,7 +51,7 @@ Here follows some useful terms that will be used across slides and notebooks dur
 - Sampling frequency: **Fs**
 
 ### Glossary - FUNCOIN/normative modelling
-FUNCOIN
+- Functional Connectivity Integrative Normative Modelling: **FUNCOIN**
 - Components which FUNCOIN identifies: **gamma**, **gamma_j** (for the jth component)
 - Model coefficient  found by fitting/decomposing: **beta**
 - Feature matrix/matrix of covariates: **X**
